@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-color: #f1f5ff;
+}
+header{
+    background-color: white;
+    padding: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Rlogo{
+    display: flex;
+    align-self: center;
+}
+.Rlogo-icon img{
+    width: 20px;
+}
+.Rlogo-type{
+    color: #64ddba;
+}
+.Rmenu{
+    display: flex;
+}
+.Rsign{
+    display: flex;
+}
+
+.sign-up{
+    background-color: #64ddba;
+}
